@@ -1,0 +1,6 @@
+`git init`: Initializing the git repository
+`git status`: Checking the status
+`git push`: Pushing repo to the server
+`git add`: Staging the  File
+`git commit`: Adding the current stage snapshot to repo
+
